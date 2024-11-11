@@ -1,0 +1,6 @@
+# additional libraries
+pygmt==0.11.0
+geopandas==0.14.4
+scikit-learn==1.2.0
+gplately==1.3.0
+seaborn==0.12.1
